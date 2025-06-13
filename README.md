@@ -4,3 +4,7 @@ In today’s fast-paced world, individuals need to track and manage their expens
 2. View expense(s): You can view all the current expenses you have entered.
 3. Set and track a budget: You can enter a monthly budget and the program will tell you if you're within or over your budget.
 4. Save and load expenses: You can save your expenses into a prenamed csv file. The program will read this csv file and store its contents so that way you can resume where you left off. 
+
+There are defined functions for each task. There is a main menu which will be shown after each operation is done. The user can choose to do another operation or log out whenever they need to.
+
+Thank you for visiting!
